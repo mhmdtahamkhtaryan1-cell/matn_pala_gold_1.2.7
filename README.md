@@ -1,4 +1,5 @@
 # matn_pala_gold_1.2.7
+
 # MatnPala - AI-Powered Text Summarizer with Tone Detection
 
 MatnPala is a lightweight, high-performance text summarization engine for Persian (Farsi) and English. It uses a multi-factor scoring system with tone detection, statistics preservation, and adjustable compression — all in a single PHP file, with no dependencies.
@@ -92,7 +93,25 @@ MatnPala uses a multi-factor scoring algorithm:
 
 ## License
 
-MIT License
+**GNU General Public License v3.0 (GPL v3)**
+
+Copyright (C) 2024 Mohammad Taha Mokhtarian
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 of the License.
+
+This program is distributed in the hope that it will be useful, but **WITHOUT ANY WARRANTY**; without even the implied warranty of **MERCHANTABILITY** or **FITNESS FOR A PARTICULAR PURPOSE**. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+### Key Terms of GPL v3:
+
+1. **Freedom to Use** — For any purpose, personal or commercial
+2. **Freedom to Modify** — You may edit the source code
+3. **Freedom to Distribute** — You may redistribute copies
+4. **Share Alike** — Any derivative work must be licensed under GPL v3
+5. **Source Code** — Full source code must be made available to users
+6. **Patent Protection** — Patents cannot be used to restrict users
+7. **No Additional Restrictions** — You may not impose further restrictions beyond GPL
 
 ## Contact
 
